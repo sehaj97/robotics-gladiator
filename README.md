@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 - The player's robot's name can be dynamically created by the player through the browser.
@@ -18,3 +19,8 @@
 - Create and use JavaScript objects to organize data related to the player and data related to the enemies.
 
 - Create object methods to perform player actions.
+=======
+### robotics gladiators
+https://sehaj97.github.io/robotics-gladiator/
+Play the game and fight 3 robots (uses only prompts,alert and confirms)
+>>>>>>> f72cdd79481b12b61eb718d590ecfe21c3c62f89
